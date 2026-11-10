@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reflegalltd.shop/sitemap.xml
